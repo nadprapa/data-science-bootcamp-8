@@ -8,4 +8,9 @@ I learn a lot of stuff related to data science skills.
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
-- R programming 
+- R Programming
+- Data tranformation
+- Data Vis
+
+
+ You can find me on Linkedin 
